@@ -32,9 +32,9 @@ Determining if a person has a high or low credit risk can become very difficult 
 
 ### Combination(over and undersampling):
 
-- Accuracy: 54.7% 
+- Accuracy: 66.2% 
 - Precision: 99%
-- Recall: 57%
+- Recall: 69%
 
 <img width="989" alt="Combination" src="https://user-images.githubusercontent.com/108498940/204070394-7ccb9c39-0e0d-408a-b3d2-365e2f6bd427.png">
 
