@@ -8,9 +8,9 @@ Determining if a person has a high or low credit risk can become very difficult 
 
 ### Naive Random Oversampling: 
 
-- Accuracy: 67% 
+- Accuracy: 65% 
 - Precision: 1%
-- Recall: 74%
+- Recall: 72%
 
 <img width="1002" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/108498940/204070280-afc32764-5dfa-4a50-b657-115b7f23302a.png">
 
