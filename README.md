@@ -26,7 +26,7 @@ Determining if a person has a high or low credit risk can become very difficult 
 
 - Accuracy: 66.2% 
 - Precision: 99%
-- Recall: 41%
+- Recall: 40%
 
 <img width="1019" alt="Undersampling" src="https://user-images.githubusercontent.com/108498940/204070355-b568aca6-8363-4c6c-ab3e-f828381d0d68.png">
 
