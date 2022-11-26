@@ -40,9 +40,9 @@ Determining if a person has a high or low credit risk can become very difficult 
 
 ### Balanced Random Forest Classifier:
 
-- Accuracy: 77.2% 
+- Accuracy: 77.6% 
 - Precision: 99%
-- Recall: 88%
+- Recall: 87%
 
 <img width="1015" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/108498940/204070411-5af68716-f08e-428d-8761-4f5ca1454335.png">
 
